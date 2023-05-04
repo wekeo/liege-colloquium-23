@@ -1,0 +1,82 @@
+# Component information
+name: liege-colloquium-23
+description: Compendium of training content associated with conceptual models and methodological approaches to working with Earth observation data.
+copyright: 2023 EUMETSAT
+license_spdx: MIT
+date: 01-05-2023
+home_url: https://github.com/wekeo/liege-colloquium-23
+
+# Package IPR documentation
+license_text_file: LICENSE.txt
+ 
+# File(s) associated to this component
+
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/background/Ruddick/HYPERTEACH-pymodel_v1.0_IOCCGjul2022_draft2_NOanswers.pdf
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/background/Ruddick/HYPERTEACH-pymodel_v1.0_IOCCGjul2022_draft2_NOanswers.docx
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/background/Bernard/Size_algorithm_demo.xls
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/cie-cmf.txt
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/Rrs_samples
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/Rrs_samples/Rrs_user_01.txt
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/Rrs_samples/Rrs_sample_01.txt
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/Rrs_samples/Rrs_sample_02.txt
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/Rrs_samples/Rrs_sample_03.txt
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/Rrs_samples/Rrs_user_L8_01.txt
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/Rrs_samples/Rrs_sample_04.txt
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/Rrs_samples/Rrs_user_S2_01.txt
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/params.py
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/colours.py
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/IOPs.txt
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/IOP_model.ini
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/__init__.py
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/__version__.py
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/widgets.py
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/plots.py
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/components.py
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/main.py
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/forward_model/samples.py
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/README.md
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/Run_model.ipynb
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/LICENSE.txt
+about_resource: ./1_conceptual_models/Ocean_colour_forward_model/AUTHORS.txt
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/3_WQ_predict_image.ipynb
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/README.md
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/ml/data_load_S3.py
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/ml/models.py
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/ml/c2_processing.py
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/ml/ml_regression.py
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/ml/__init__.py
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/ml/Py4R_plots.py
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/ml/models/RFR_S3bands_CHL.pkl
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/ml/models/RLR_S3bands_CHL.pkl
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/ml/data/C2_test.txt
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/ml/data/C2_train.txt
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/2_Statistics_analysis.ipynb
+about_resource: ./2_methodological_approaches/machine_learning/Machine_learning_regression_for_ocean_parameters_retrieval/1_Load_and_visualize_data.ipynb
+about_resource: ./2_methodological_approaches/machine_learning/Bayesian_classification_of_water_types/Using_ML_for_water_type_identification.ipynb
+about_resource: ./2_methodological_approaches/machine_learning/Combining_S2_S3_MDN/support_functions.py
+about_resource: ./2_methodological_approaches/machine_learning/Combining_S2_S3_MDN/Using_MDN_to_combine_S3_S3_chl_retrievals_in_coastal_waters.ipynb
+about_resource: ./2_methodological_approaches/machine_learning/Neural_network_complex_water_parameters_C2RCC/Using_ML_to_retrieve_water_quality_indicators_in_coastal_waters.ipynb
+about_resource: ./2_methodological_approaches/machine_learning/README.md
+about_resource: ./2_methodological_approaches/machine_learning/common_functions.py
+about_resource: ./2_methodological_approaches/dineof/README.md
+about_resource: ./2_methodological_approaches/dineof/02_DINEOF_run_Py.ipynb
+about_resource: ./2_methodological_approaches/dineof/dineof
+about_resource: ./2_methodological_approaches/dineof/01_DINEOF_prepare_Py.ipynb
+about_resource: ./2_methodological_approaches/dineof/03_DINEOF_results_Py.ipynb
+about_resource: ./img/S3_spectral_1200.png
+about_resource: ./img/4Fa_partition.png
+about_resource: ./img/S2_spectral_1200.png
+about_resource: ./img/C2RCC_NN_1.png
+about_resource: ./img/S3_spatial_resolution.png
+about_resource: ./img/C2RCC_NN_2.png
+about_resource: ./img/copernicus_logo.png
+about_resource: ./img/S2_spatial_resolution.png
+about_resource: ./img/SNAP_GUI_C2RCC.png
+about_resource: AUTHORS.txt
+about_resource: Index.ipynb
+about_resource: LICENSE.txt
+about_resource: README.md
+about_resource: environment.yml
+about_resource: liege-colloquium-23.ABOUT
+
+# Notes:
