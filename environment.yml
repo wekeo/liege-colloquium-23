@@ -1,6 +1,6 @@
 # copyright: 2023 EUMETSAT
 # license: LICENSE.txt
-name: liege-colloquium-23
+name: cmts_liege_colloquium_23
 channels:
   - conda-forge
 dependencies:

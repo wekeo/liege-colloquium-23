@@ -6,13 +6,12 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.txt)
 
 The **liege-colloquium-23** module consists of a collection of python-based Jupyter-notebooks 
-that demonstrate some common methodologies employed in the field of ocean colour. The focus is predominantly
-on ocean colour products made available by EUMETSAT through the Copernicus programme (e.g. those from Sentinel-3 OLCI) 
-but also includes information on general principles of ocean colour. It features examples of typical workflows
-(e.g. match-up analysis) and approaches relevant to multi-sensor analysis, amongst others.
+that demonstrate some common methodologies employed in the field of machine learning. The focus is predominantly
+on ocean colour and SST products made available by EUMETSAT and through the Copernicus programme (e.g. those from Sentinel-3 OLCI). It also 
+includes information on general principles of ocean colour.
 
 Users looking for more information on using products from the Sentinel-3 Ocean and Land Colour Instrument (OLCI) 
-in the marine domain are encouraged to check out our [learn-olci](https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/sensors/learn-olci) repository
+in the marine domain are encouraged to check out our [learn-olci](https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/sensors/learn-olci) repository.
 
 For any questions about this repository, please contact ops@eumetsat.int.
 
@@ -85,7 +84,7 @@ the Anaconda Navigator). Once you have opened a terminal/prompt, you should navi
 to the directory where you want to put the code. Once you are in the correct directory, 
 you should run the following command;
 
-`git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/applications/ocean-colour-applications.git`
+`git clone https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/applications/ocean-colour-applications.git`
 
 This will make a local copy of all the relevant files.
 
