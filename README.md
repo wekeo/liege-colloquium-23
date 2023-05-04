@@ -84,14 +84,9 @@ the Anaconda Navigator). Once you have opened a terminal/prompt, you should navi
 to the directory where you want to put the code. Once you are in the correct directory, 
 you should run the following command;
 
-`git clone https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/applications/ocean-colour-applications.git`
+`git clone https://github.com/wekeo/liege-colloquium-23.git`
 
 This will make a local copy of all the relevant files.
-
-*Note: If you find that you are missing packages, you should check that you ran 
-`git clone` with both the `--recurse-submodules` and `--remote-submodules` options.*
-
-*Note: if you are using an older version of git, you may find that your submodules are empty. In this case, you need to remove the folder and re-run the line above with `--recursive` added to the end*
 
 ## Usage
 
@@ -119,10 +114,10 @@ To create the environment, run:
 
 `conda env create -f environment.yml`
 
-This will create a Python environment called **cmts_learn_olci**. The environment 
+This will create a Python environment called **cmts_liege_colloquium_23**. The environment 
 won't be activated by default. To activate it, run:
 
-`conda activate cmts_ocean_colour_applications`
+`conda activate cmts_liege_colloquium_23`
 
 Now you are ready to go!
 
@@ -165,16 +160,16 @@ at ops@eumetsat.int. We welcome your feedback!
 
 **Installation:**
 
-`git clone --recurse-submodules --remote-submodules https://gitlab.eumetsat.int/eumetlab/oceans/ocean-training/applications/ocean-colour-applications.git`
+`git clone https://github.com/wekeo/liege-colloquium-23.git`
 
 **Create and set environment**
 
 `conda env create -f environment.yml` \
-`conda activate cmts_ocean_colour_applications`
+`conda activate cmts_liege_colloquium_23`
 
 **WEkEO SPECIFIC**
 
-`ipython kernel install --user --name=cmts_ocean_colour_applications`
+`ipython kernel install --user --name=cmts_liege_colloquium_23`
 
 **Run**
 
