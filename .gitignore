@@ -36,5 +36,6 @@ wheels/
 # Repo specific
 **/Support_data/
 **/MDN/
-SST_MED_SST_L3S_NRT_OBSERVATIONS_010_012_a_example.nc
-
+RFR_S3bands_CHL.hdr
+RFR_S3bands_CHL.img
+sst_L3_Alboran_2022_py.nc

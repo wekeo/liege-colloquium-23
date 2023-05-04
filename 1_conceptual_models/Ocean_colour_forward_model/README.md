@@ -8,7 +8,7 @@ The model is consists of a modular toolkit (written in Python) and a simple Jupy
 
 ## License
  
-This code is licensed under an MIT license. See file LICENSE.txt for details on 
+This code is licensed under an MIT license. See file ../LICENSE.txt for details on 
 the usage and distribution terms. No dependencies are distributed as part of this 
 package. Copyright RBINS/EUMETSAT 2022.
 

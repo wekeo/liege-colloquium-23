@@ -16,5 +16,4 @@ Scripts: the folder "ml" contains helper functions (64 KB)
 4. "c2_processing.py" loads a Sentinel-3 image and apply a trained model to the data
 5. "Py4R_plots.py" with function for plotting
 
-OLCI images are stored in the folder S3Images
-
+OLCI images are stored in the folder Support_data folder
