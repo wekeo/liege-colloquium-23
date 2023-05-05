@@ -39,4 +39,5 @@ wheels/
 RFR_S3bands_CHL.hdr
 RFR_S3bands_CHL.img
 sst_L3_Alboran_2022_py.nc
+sst_L4_dineof_Alboran_2022_py.nc
 !SST_MED_SST_L3S_NRT_OBSERVATIONS_010_012_a_example.nc

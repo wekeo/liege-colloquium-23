@@ -58,10 +58,11 @@ about_resource: ./2_methodological_approaches/machine_learning/Combining_S2_S3_M
 about_resource: ./2_methodological_approaches/machine_learning/Neural_network_complex_water_parameters_C2RCC/Using_ML_to_retrieve_water_quality_indicators_in_coastal_waters.ipynb
 about_resource: ./2_methodological_approaches/machine_learning/common_functions.py
 about_resource: ./2_methodological_approaches/dineof/README.ipynb
-about_resource: ./2_methodological_approaches/dineof/README.md
-about_resource: ./2_methodological_approaches/dineof/02_DINEOF_run_Py.ipynb
+about_resource: ./2_methodological_approaches/dineof/dineof.init
 about_resource: ./2_methodological_approaches/dineof/dineof
+about_resource: ./2_methodological_approaches/dineof/SST_MED_SST_L3S_NRT_OBSERVATIONS_010_012_a_example.nc
 about_resource: ./2_methodological_approaches/dineof/01_DINEOF_prepare_Py.ipynb
+about_resource: ./2_methodological_approaches/dineof/02_DINEOF_run_Py.ipynb
 about_resource: ./2_methodological_approaches/dineof/03_DINEOF_results_Py.ipynb
 about_resource: ./img/S3_spectral_1200.png
 about_resource: ./img/4Fa_partition.png
