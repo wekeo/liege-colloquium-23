@@ -70,6 +70,14 @@ operating system. Anaconda Python distributions include Jupyter Notebook.
 |scikit-learn|1.2.2|BSD-3|https://anaconda.org/conda-forge/scikit-learn|
 |joblib|1.2.0|BSD-3|https://anaconda.org/conda-forge/joblib|
 |seaborn|0.12.2|BSD-3|https://anaconda.org/conda-forge/seaborn|
+|tensorflow|2.11.0|Apache-2.0|https://anaconda.org/conda-forge/tensorflow|
+|tensorflow-probability|0.19.0|Apache-2.0|https://anaconda.org/conda-forge/tensorflow-probability|
+|tqdm|4.65.0|MIT|https://anaconda.org/conda-forge/tqdm|
+|xmltodict|0.13.0|MIT|https://anaconda.org/conda-forge/xmltodict|
+|rioxarray|0.14.1|Apache-2.0|https://anaconda.org/conda-forge/rioxarray|
+|jupyterlab|3.6.3|BSD-3|https://anaconda.org/conda-forge/jupyterlab|
+|requests|2.29.0|Apache-2.0|https://anaconda.org/conda-forge/requests|
+|spectral|0.23.1|MIT|https://anaconda.org/conda-forge/spectral|
 
 ## Installation
 
